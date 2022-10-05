@@ -28,7 +28,7 @@ Nós também podemos pegar as modificações de outros desenvolvedores que estej
 E esse ciclo se repete ao longo de todo o desenvolvimento:
 
 1. Obter os arquivos ou modificações
-2. Modificar os arquivos
+2. Modificar os arquivo modificandpo
 3. Adicionar as modificações localmente
 4. Enviar as modificações adicionadas
 
