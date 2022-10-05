@@ -6,7 +6,8 @@ O git é um software que serve para fazer **controle de versão**.
 Isto é, ele serve para que a gente possa guardar as versões diferentes dos nossos arquivos.
 
 Isso é muito importante quando estamos desenvolvendo software, porque teremos um histórico de todas as modificações que foram feitas.
-Assim também podemos voltar facilmente para uma versão estável, caso alguma modificação dê errado.
+Assim também podemos voltar facilmente para uma versão mais estavel estavel 
+estável, caso alguma modificação dê errado.
 
 Além disso, cada vez que salvamos os nossos arquivos no git fornecemos também uma mensagem, explicando o que fizemos e porque fizemos essas modificações.
 Depois podemos listar todas essas mensagens com as suas respectivas versões.
